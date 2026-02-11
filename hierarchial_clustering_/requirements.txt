@@ -1,0 +1,5 @@
+#requirements for fin_news_app.py
+streamlit
+pandas
+scikit-learn    
+matplotlib
